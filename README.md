@@ -48,13 +48,59 @@ In addition to technical expertise, I bring strong leadership and stakeholder ma
 
 ### Tools & Technologies
 
+#### Security Operations Center (SOC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Splunk Enterprise, Wazuh, Sysmon, Windows Event Viewer, Microsoft Defender, VirusTotal.
+
+#### Network Security & Analysis
+
+Wireshark, Nmap, tcpdump, Zenmap, pfSense.
+
+#### Vulnerability Assessment & Penetration Testing
+
+OWASP ZAP, Metasploit Framework, Burp Suite, Nessus, Nikto.
+
+#### Cloud Security (AWS)
+
+IAM, EC2, S3, CloudTrail, CloudWatch, VPC, Security Groups, AWS Config.
+
+#### Operating Systems & Administration
+
+Ubuntu, Kali Linux, Windows Server, Active Directory, PowerShell, Bash.
+
+#### Virtualization & Home Lab
+
+VirtualBox, pfSense.
+
+#### Productivity & Documentation
+
+GitHub, Microsoft Excel, Microsoft Word, Microsoft PowerPoint.
+
+#### Frameworks
+
+NIST, ISO 27001, MITRE ATT&CK.
+
+### Soft Skills
+
+* Analytical Thinking and Problem-Solving
+* Attention to Detail and Clear Communication
+* Team Collaboration and Adaptability
+* Incident Prioritization and Time Management
+* Leadership
+* Technical Documentation
+* Strong Ethical and Security Mindset
+* Continuous Learning
+
+### Certifications
+
+* ISO/IEC 27001:2022 Lead Implementer
+* Google Cybersecurity Professional Certificate
+* Google AI Essentials
+* Certified Phishing Prevention Specialist (CPPS)
+* Cybersecurity and IT Infrastructure
+
+### Featured Projects
+
+  
+
+
